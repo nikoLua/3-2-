@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\3-2 字典\bin\Debug\netcoreapp3.1\3-2 字典.exe
+E:\Unity\NikoLua\Hello\3-2 字典\bin\Debug\netcoreapp3.1\3-2 字典.deps.json
+E:\Unity\NikoLua\Hello\3-2 字典\bin\Debug\netcoreapp3.1\3-2 字典.runtimeconfig.json
+E:\Unity\NikoLua\Hello\3-2 字典\bin\Debug\netcoreapp3.1\3-2 字典.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\3-2 字典\bin\Debug\netcoreapp3.1\3-2 字典.dll
+E:\Unity\NikoLua\Hello\3-2 字典\bin\Debug\netcoreapp3.1\3-2 字典.pdb
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.csproj.AssemblyReference.cache
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.dll
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.pdb
+E:\Unity\NikoLua\Hello\3-2 字典\obj\Debug\netcoreapp3.1\3-2 字典.genruntimeconfig.cache
